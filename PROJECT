@@ -1,0 +1,7 @@
+domain: my.domain
+repo: operator-example
+resources:
+- group: webapp
+  kind: Operator
+  version: v1
+version: "2"
